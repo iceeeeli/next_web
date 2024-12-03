@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <json>
+    {
+      "name": "John Doe",
+      "age": 30,
+      "email": "john.doe@example.com"
+    }
+  </json>
+</data>
