@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to React",
+    "content": "React is a popular JavaScript library for building user interfaces..."
+  },
+  {
+    "id": 2,
+    "title": "What is Node.js?",
+    "content": "Node.js is a JavaScript runtime environment that allows developers to run JavaScript on the server-side..."
+  },
+  {
+    "id": 3,
+    "title": "Mastering Git Version Control",
+    "content": "Git is a powerful distributed version control system used by developers worldwide..."
+  }
+]
